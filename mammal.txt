@@ -1,0 +1,241 @@
+The aardvark is type Mammal
+- It has hair
+- It has milk
+Quote: I have 4 legs. Having legs is amazing. 
+
+The antelope is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The bear is type Mammal
+- It has hair
+- It has milk
+Quote: I have 4 legs. Having legs is amazing. 
+
+The boar is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The buffalo is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The calf is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The cavy is type Mammal
+- It has hair
+- It has milk
+Quote: I have 4 legs. Having legs is amazing. 
+
+The cheetah is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The deer is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The dolphin is type Mammal
+- It has milk
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: I have 0 legs. This makes me sad. 
+
+The elephant is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The fruitbat is type Mammal
+- It has hair
+- It has milk
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The giraffe is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The goat is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The gorilla is type Mammal
+- It has hair
+- It has milk
+Quote: I have 2 legs. Having legs is amazing. 
+
+The hamster is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The hare is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The leopard is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The lion is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The lynx is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The mink is type Mammal
+- It has hair
+- It has milk
+- It is aquatic
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The mole is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The mongoose is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The opossum is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The oryx is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The platypus is type Mammal
+- It has hair
+- It lays eggs
+- It has milk
+- It is aquatic
+- It is venomous
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The polecat is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The pony is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The porpoise is type Mammal
+- It has milk
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: I have 0 legs. This makes me sad. 
+
+The puma is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The raccoon is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The reindeer is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The seal is type Mammal
+- It has hair
+- It has milk
+- It is aquatic
+- It has fins
+Quote: I have 0 legs. This makes me sad. 
+
+The sealion is type Mammal
+- It has hair
+- It has milk
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The squirrel is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The vampire is type Mammal
+- It has hair
+- It has milk
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The vole is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The wallaby is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The wolf is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+

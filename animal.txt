@@ -1,0 +1,616 @@
+The aardvark is type Mammal
+- It has hair
+- It has milk
+Quote: I have 4 legs. Having legs is amazing. 
+
+The antelope is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The bass is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The bear is type Mammal
+- It has hair
+- It has milk
+Quote: I have 4 legs. Having legs is amazing. 
+
+The boar is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The buffalo is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The calf is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The carp is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The catfish is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The cavy is type Mammal
+- It has hair
+- It has milk
+Quote: I have 4 legs. Having legs is amazing. 
+
+The cheetah is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The chicken is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The chub is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The clam is type OtherInvertebrate
+- It lays eggs
+Quote: I sadly don't have any legs.
+
+The crab is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 4 to be exact.
+
+The crayfish is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 6 to be exact.
+
+The crow is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The deer is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The dogfish is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The dolphin is type Mammal
+- It has milk
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: I have 0 legs. This makes me sad. 
+
+The dove is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The duck is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The elephant is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The flamingo is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The flea is type Bug
+- It lays eggs
+Quote: I have 6 legs. 6 is easily the best number of legs
+
+The frog is type Amphibian
+- It lays eggs
+- It is aquatic
+Quote: I have 4 legs. Having legs is amazing.  Having them helps me forget I don't have a tail. 
+
+The treefrog is type Amphibian
+- It lays eggs
+- It is aquatic
+- It is venomous
+Quote: I have 4 legs. Having legs is amazing.  Having them helps me forget I don't have a tail. 
+
+The fruitbat is type Mammal
+- It has hair
+- It has milk
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The giraffe is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The gnat is type Bug
+- It lays eggs
+- It is airborne
+Quote: I have 6 legs. 6 is easily the best number of legs
+
+The goat is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The gorilla is type Mammal
+- It has hair
+- It has milk
+Quote: I have 2 legs. Having legs is amazing. 
+
+The gull is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The haddock is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The hamster is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The hare is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The hawk is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The herring is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The honeybee is type Bug
+- It has hair
+- It lays eggs
+- It is airborne
+- It is venomous
+Quote: I have 6 legs. 6 is easily the best number of legs
+
+The housefly is type Bug
+- It has hair
+- It lays eggs
+- It is airborne
+Quote: I have 6 legs. 6 is easily the best number of legs
+
+The kiwi is type Bird
+- It has feathers
+- It lays eggs
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The ladybird is type Bug
+- It lays eggs
+- It is airborne
+Quote: I have 6 legs. 6 is easily the best number of legs
+
+The lark is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The leopard is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The lion is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The lobster is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 6 to be exact.
+
+The lynx is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The mink is type Mammal
+- It has hair
+- It has milk
+- It is aquatic
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The mole is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The mongoose is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The moth is type Bug
+- It has hair
+- It lays eggs
+- It is airborne
+Quote: I have 6 legs. 6 is easily the best number of legs
+
+The newt is type Amphibian
+- It lays eggs
+- It is aquatic
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. Having both legs and a tail is amazing! 
+
+The octopus is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 8 to be exact.
+
+The opossum is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The oryx is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The ostrich is type Bird
+- It has feathers
+- It lays eggs
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The parakeet is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The penguin is type Bird
+- It has feathers
+- It lays eggs
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The pheasant is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The pike is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The piranha is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The pitviper is type Reptile
+- It lays eggs
+- It is venomous
+- It has a tail
+Quote: I have 0 legs. This makes me sad. No scaly legs for me. 
+
+The platypus is type Mammal
+- It has hair
+- It lays eggs
+- It has milk
+- It is aquatic
+- It is venomous
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The polecat is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The pony is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The porpoise is type Mammal
+- It has milk
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: I have 0 legs. This makes me sad. 
+
+The puma is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The raccoon is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The reindeer is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The rhea is type Bird
+- It has feathers
+- It lays eggs
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The scorpion is type OtherInvertebrate
+- It is venomous
+- It has a tail
+Quote: I sadly don't have any legs... Oh wait I do have legs. 8 to be exact.
+
+The seahorse is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The seal is type Mammal
+- It has hair
+- It has milk
+- It is aquatic
+- It has fins
+Quote: I have 0 legs. This makes me sad. 
+
+The sealion is type Mammal
+- It has hair
+- It has milk
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The seasnake is type Reptile
+- It is aquatic
+- It is venomous
+- It has a tail
+Quote: I have 0 legs. This makes me sad. No scaly legs for me. 
+
+The seawasp is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+- It is venomous
+Quote: I sadly don't have any legs.
+
+The skimmer is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The skua is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The slowworm is type Reptile
+- It lays eggs
+- It has a tail
+Quote: I have 0 legs. This makes me sad. No scaly legs for me. 
+
+The slug is type OtherInvertebrate
+- It lays eggs
+Quote: I sadly don't have any legs.
+
+The sole is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The sparrow is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The squirrel is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The starfish is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 5 to be exact.
+
+The stingray is type Fish
+- It lays eggs
+- It is aquatic
+- It is venomous
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The swan is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The termite is type Bug
+- It lays eggs
+Quote: I have 6 legs. 6 is easily the best number of legs
+
+The toad is type Amphibian
+- It lays eggs
+- It is aquatic
+Quote: I have 4 legs. Having legs is amazing.  Having them helps me forget I don't have a tail. 
+
+The tortoise is type Reptile
+- It lays eggs
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing ... especially when they're scaly! 
+
+The tuatara is type Reptile
+- It lays eggs
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing ... especially when they're scaly! 
+
+The tuna is type Fish
+- It lays eggs
+- It is aquatic
+- It has fins
+- It has a tail
+Quote: Glug glug
+
+The vampire is type Mammal
+- It has hair
+- It has milk
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The vole is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The vulture is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The wallaby is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing. 
+
+The wasp is type Bug
+- It has hair
+- It lays eggs
+- It is airborne
+- It is venomous
+Quote: I have 6 legs. 6 is easily the best number of legs
+
+The wolf is type Mammal
+- It has hair
+- It has milk
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing. 
+
+The worm is type OtherInvertebrate
+- It lays eggs
+Quote: I sadly don't have any legs.
+
+The wren is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+

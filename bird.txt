@@ -1,0 +1,142 @@
+The chicken is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The crow is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The dove is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The duck is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The flamingo is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The gull is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The hawk is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The kiwi is type Bird
+- It has feathers
+- It lays eggs
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The lark is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The ostrich is type Bird
+- It has feathers
+- It lays eggs
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The parakeet is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The penguin is type Bird
+- It has feathers
+- It lays eggs
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The pheasant is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The rhea is type Bird
+- It has feathers
+- It lays eggs
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The skimmer is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The skua is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The sparrow is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The swan is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It is aquatic
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The vulture is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+
+The wren is type Bird
+- It has feathers
+- It lays eggs
+- It is airborne
+- It has a tail
+Quote: I have 2 legs. Having legs is amazing but having wings is even better! 
+

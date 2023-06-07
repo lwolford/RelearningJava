@@ -1,0 +1,48 @@
+The clam is type OtherInvertebrate
+- It lays eggs
+Quote: I sadly don't have any legs.
+
+The crab is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 4 to be exact.
+
+The crayfish is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 6 to be exact.
+
+The lobster is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 6 to be exact.
+
+The octopus is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 8 to be exact.
+
+The scorpion is type OtherInvertebrate
+- It is venomous
+- It has a tail
+Quote: I sadly don't have any legs... Oh wait I do have legs. 8 to be exact.
+
+The seawasp is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+- It is venomous
+Quote: I sadly don't have any legs.
+
+The slug is type OtherInvertebrate
+- It lays eggs
+Quote: I sadly don't have any legs.
+
+The starfish is type OtherInvertebrate
+- It lays eggs
+- It is aquatic
+Quote: I sadly don't have any legs... Oh wait I do have legs. 5 to be exact.
+
+The worm is type OtherInvertebrate
+- It lays eggs
+Quote: I sadly don't have any legs.
+

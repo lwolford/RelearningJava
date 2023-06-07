@@ -1,0 +1,7 @@
+abbbc is rejected
+abbaba is rejected
+cbbcbc is rejected
+ is rejected
+aaacb is rejected
+cbbbb is rejected
+babac is rejected

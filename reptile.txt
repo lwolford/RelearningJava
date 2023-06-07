@@ -1,0 +1,27 @@
+The pitviper is type Reptile
+- It lays eggs
+- It is venomous
+- It has a tail
+Quote: I have 0 legs. This makes me sad. No scaly legs for me. 
+
+The seasnake is type Reptile
+- It is aquatic
+- It is venomous
+- It has a tail
+Quote: I have 0 legs. This makes me sad. No scaly legs for me. 
+
+The slowworm is type Reptile
+- It lays eggs
+- It has a tail
+Quote: I have 0 legs. This makes me sad. No scaly legs for me. 
+
+The tortoise is type Reptile
+- It lays eggs
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing ... especially when they're scaly! 
+
+The tuatara is type Reptile
+- It lays eggs
+- It has a tail
+Quote: I have 4 legs. Having legs is amazing ... especially when they're scaly! 
+
